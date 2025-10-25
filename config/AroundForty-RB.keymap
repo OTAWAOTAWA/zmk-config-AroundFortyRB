@@ -1,5 +1,10 @@
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 100
-#define MOUSE 4
+#define MOUSE 3
+
+// Mouse Scroll Value
+#define ZMK_POINTING_DEFAULT_SCRL_VAL 100
+
+#define SCROLL 5
 
 #include <behaviors/rgbled_widget.dtsi>  // needed to use the behaviors
 #include <behaviors.dtsi>
