@@ -68,7 +68,6 @@
 
         //automouse-layer = <8>;
         scroll-layers = <4>;
-        invert-y;
 
     };
 };
